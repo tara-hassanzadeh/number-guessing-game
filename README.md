@@ -22,12 +22,7 @@ A simple console-based Python game where the user tries to guess a randomly gene
 
 ---
 
-## 🚀 How to Run
+## ▶️ How to Run
 
-1. Make sure you have **Python 3** installed.  
-2. Download the file: `number_guessing_game.py`  
-3. Open a terminal or command prompt.  
-4. Run the game with:
-
-```bash
-python number_guessing_game.py
+You can run the code directly in **Google Colab** (no setup needed):
+https://colab.research.google.com/github/tara-hassanzadeh/number-guessing-game/blob/main/number_guessing_game.ipynb
